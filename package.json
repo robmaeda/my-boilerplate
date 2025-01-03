@@ -1,6 +1,6 @@
 {
     "name": "@robmaeda/my-boilerplate",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "A starter boilerplate for projects using React, next.js, Typescript, Tailwind CSS and MongoDB.",
     "bin": "./bin/cli.js",
     "type": "module",
