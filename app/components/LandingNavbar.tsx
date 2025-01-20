@@ -40,7 +40,7 @@ const LandingNavbar = () => {
                         </li>
                     </ul>
                 </div>
-                <a className="btn btn-ghost text-xl">Chef Base</a>
+                <a className="btn btn-ghost text-xl">Tagalog Vocab SRS</a>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">

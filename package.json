@@ -1,7 +1,7 @@
 {
-    "name": "@robmaeda/recipe-home",
-    "version": "0.1.0",
-    "description": "A central base for the home chef.",
+    "name": "@robmaeda/my-boilerplate",
+    "version": "0.1.4",
+    "description": "A starter boilerplate for projects using React, next.js, Typescript, Tailwind CSS and MongoDB.",
     "bin": "./bin/cli.js",
     "type": "module",
     "scripts": {
